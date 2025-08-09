@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Prayer from "./assets/component/prayer";
+import Prayer from "./assets/component/prayer.jsx";
 
 function App() {
   const [prayerTimes, setPrayerTimes] = useState({});
